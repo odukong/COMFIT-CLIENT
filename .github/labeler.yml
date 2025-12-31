@@ -29,3 +29,9 @@ labels:
 
   "🚀DEPLOY":
     include: ['\bDeploy\b', '\bDEPLOY\b', '\bdeploy\b']
+  
+  "🚨HOTFIX":
+    include: ['\bHotfix\b', '\bHOTFIX\b', '\bhotfix\b']
+
+  "🔗API":
+    include: ['\bAPI\b', '\bApi\b', '\bapi\b']
